@@ -1,0 +1,9 @@
+/* THIS IS FOR COMPONENT BASE CSS FILE  */
+/* WE NEED TO IMPORT THIS FILE WHERE WE WANT TO ADD THIS FILE STYLING CSS */
+/* THIS CSS ADD IN HOME.JS FILE  */
+
+
+.home {
+    background-color: red;
+    text-align: center;
+}
